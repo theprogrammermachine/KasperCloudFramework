@@ -1,0 +1,58 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\My Documents\\Projects\\Dotnet\\KasperCloudFramework\\DataKeeperPeer\\DataKeeperPeer.csproj",
+    "projectName": "DataKeeperPeer",
+    "projectPath": "D:\\My Documents\\Projects\\Dotnet\\KasperCloudFramework\\DataKeeperPeer\\DataKeeperPeer.csproj",
+    "outputPath": "D:\\My Documents\\Projects\\Dotnet\\KasperCloudFramework\\DataKeeperPeer\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "D:\\My Documents\\Projects\\Dotnet\\KasperCloudFramework\\SharedArea\\SharedArea.csproj": {
+            "projectPath": "D:\\My Documents\\Projects\\Dotnet\\KasperCloudFramework\\SharedArea\\SharedArea.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.Data.Sqlite": {
+          "target": "Package",
+          "version": "[3.0.0-preview6.19304.10, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "SixLabors.ImageSharp": {
+          "target": "Package",
+          "version": "[1.0.0-beta0006, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

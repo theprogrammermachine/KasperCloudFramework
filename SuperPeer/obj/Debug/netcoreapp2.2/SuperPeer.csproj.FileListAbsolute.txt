@@ -1,0 +1,12 @@
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\bin\Debug\netcoreapp2.2\SuperPeer.deps.json
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\bin\Debug\netcoreapp2.2\SuperPeer.dll
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\bin\Debug\netcoreapp2.2\SuperPeer.pdb
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\bin\Debug\netcoreapp2.2\SharedArea.dll
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\bin\Debug\netcoreapp2.2\SharedArea.pdb
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\obj\Debug\netcoreapp2.2\SuperPeer.csprojAssemblyReference.cache
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\obj\Debug\netcoreapp2.2\SuperPeer.csproj.CoreCompileInputs.cache
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\obj\Debug\netcoreapp2.2\SuperPeer.AssemblyInfoInputs.cache
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\obj\Debug\netcoreapp2.2\SuperPeer.AssemblyInfo.cs
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\obj\Debug\netcoreapp2.2\SuperPeer.csproj.CopyComplete
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\obj\Debug\netcoreapp2.2\SuperPeer.dll
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\SuperPeer\obj\Debug\netcoreapp2.2\SuperPeer.pdb

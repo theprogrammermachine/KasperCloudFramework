@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Keyhan\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Keyhan\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_KasperCloudFramework.16696248.00" t="ExcludeRecursive" />
+    <e p="D:\My Documents\Projects\Dotnet\KasperCloudFramework" t="IncludeFlat">
+      <e p="ApiGateway" t="IncludeRecursive">
+        <e p="ApiGateway.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Consumer.cs" t="Include" />
+        <e p="KafkaGatewayExtension.cs" t="Include" />
+        <e p="KafkaTransport.cs" t="Include" />
+        <e p="Middleware" t="Include">
+          <e p="LoggerMiddleware.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ApiGateway.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Variables.cs" t="Include" />
+      </e>
+      <e p="DataIndexerPeer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Consumer.cs" t="Include" />
+        <e p="DataIndexerPeer.csproj" t="IncludeRecursive" />
+        <e p="KafkaTransport.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DataIndexerPeer.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Variables.cs" t="Include" />
+      </e>
+      <e p="DataKeeperPeer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Consumer.cs" t="Include" />
+        <e p="DataKeeperPeer.csproj" t="IncludeRecursive" />
+        <e p="KafkaTransport.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DataKeeperPeer.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Security.cs" t="Include" />
+        <e p="Variables.cs" t="Include" />
+      </e>
+      <e p="KasperCloudFramework.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SharedArea" t="IncludeRecursive">
+        <e p="Answerable.cs" t="Include" />
+        <e p="AnswerContext.cs" t="Include" />
+        <e p="Answers" t="Include">
+          <e p="AnswerIndexEntity.cs" t="Include" />
+          <e p="AnswerTest.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsumeContext.cs" t="Include" />
+        <e p="GlobalVariables.cs" t="Include" />
+        <e p="IConsumer.cs" t="Include" />
+        <e p="IResponder.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="SharedArea.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Questions" t="Include">
+          <e p="AskIndexEntity.cs" t="Include" />
+          <e p="AskTest.cs" t="Include" />
+        </e>
+        <e p="SharedArea.csproj" t="IncludeRecursive" />
+        <e p="Utils" t="Include">
+          <e p="KafkaExtension.cs" t="Include" />
+          <e p="Logger.cs" t="Include" />
+        </e>
+        <e p="Wrappers" t="Include">
+          <e p="MessageWrapper.cs" t="Include" />
+        </e>
+      </e>
+      <e p="SuperPeer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Consumer.cs" t="Include" />
+        <e p="KafkaTransport.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="SuperPeer.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SuperPeer.csproj" t="IncludeRecursive" />
+        <e p="Variables.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

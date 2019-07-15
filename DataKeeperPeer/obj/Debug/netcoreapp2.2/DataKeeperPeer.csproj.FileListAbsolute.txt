@@ -1,0 +1,12 @@
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\bin\Debug\netcoreapp2.2\DataKeeperPeer.deps.json
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\bin\Debug\netcoreapp2.2\DataKeeperPeer.dll
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\bin\Debug\netcoreapp2.2\DataKeeperPeer.pdb
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\bin\Debug\netcoreapp2.2\SharedArea.dll
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\bin\Debug\netcoreapp2.2\SharedArea.pdb
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\obj\Debug\netcoreapp2.2\DataKeeperPeer.csprojAssemblyReference.cache
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\obj\Debug\netcoreapp2.2\DataKeeperPeer.csproj.CoreCompileInputs.cache
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\obj\Debug\netcoreapp2.2\DataKeeperPeer.AssemblyInfoInputs.cache
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\obj\Debug\netcoreapp2.2\DataKeeperPeer.AssemblyInfo.cs
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\obj\Debug\netcoreapp2.2\DataKeeperPeer.csproj.CopyComplete
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\obj\Debug\netcoreapp2.2\DataKeeperPeer.dll
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataKeeperPeer\obj\Debug\netcoreapp2.2\DataKeeperPeer.pdb

@@ -1,0 +1,12 @@
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\bin\Debug\netcoreapp2.2\DataIndexerPeer.deps.json
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\bin\Debug\netcoreapp2.2\DataIndexerPeer.dll
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\bin\Debug\netcoreapp2.2\DataIndexerPeer.pdb
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\bin\Debug\netcoreapp2.2\SharedArea.dll
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\bin\Debug\netcoreapp2.2\SharedArea.pdb
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\obj\Debug\netcoreapp2.2\DataIndexerPeer.csprojAssemblyReference.cache
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\obj\Debug\netcoreapp2.2\DataIndexerPeer.csproj.CoreCompileInputs.cache
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\obj\Debug\netcoreapp2.2\DataIndexerPeer.AssemblyInfoInputs.cache
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\obj\Debug\netcoreapp2.2\DataIndexerPeer.AssemblyInfo.cs
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\obj\Debug\netcoreapp2.2\DataIndexerPeer.csproj.CopyComplete
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\obj\Debug\netcoreapp2.2\DataIndexerPeer.dll
+D:\My Documents\Projects\Dotnet\KasperCloudFramework\DataIndexerPeer\obj\Debug\netcoreapp2.2\DataIndexerPeer.pdb
