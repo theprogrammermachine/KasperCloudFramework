@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bddc364-cb30-481f-9644-63d591dc35bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SharedArea/GlobalVariables.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharedArea/GlobalVariables.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KasperCloudFramework/KasperCloudFramework.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KasperCloudFramework/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KasperCloudFramework/obj/Debug/netcoreapp2.2/KasperCloudFramework.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KasperCloudFramework/obj/Debug/netcoreapp2.2/KasperCloudFramework.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KasperCloudFramework/obj/Debug/netcoreapp2.2/KasperCloudFramework.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KasperCloudFramework/obj/KasperCloudFramework.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KasperCloudFramework/obj/KasperCloudFramework.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KasperCloudFramework/obj/KasperCloudFramework.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KasperCloudFramework/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KasperCloudFramework/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedArea/Config.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.KasperCloudFramework/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KasperCloudFramework/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.KasperCloudFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KasperCloudFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataIndexerPeer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataIndexerPeer/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataKeeperPeer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataKeeperPeer/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperPeer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SuperPeer/Program.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,47 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataKeeperPeer/Variables.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
-              <folding>
-                <marker date="1563201849208" expanded="true" signature="24:476" ph="{...}" />
-                <marker date="1563201849208" expanded="true" signature="53:474" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataIndexerPeer/Variables.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
-              <folding>
-                <marker date="1563201849460" expanded="true" signature="25:326" ph="{...}" />
-                <marker date="1563201849460" expanded="true" signature="54:324" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ApiGateway/Variables.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding>
-                <marker date="1563189146065" expanded="true" signature="20:327" ph="{...}" />
-                <marker date="1563189146065" expanded="true" signature="49:325" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,10 +44,12 @@
     <setting file="file://$PROJECT_DIR$/SharedArea/Answerable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DataKeeperPeer/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DataKeeperPeer/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KasperCloudFramework/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DataIndexerPeer/Consumer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SuperPeer/Consumer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SharedArea/Questions/AskIndexEntity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SuperPeer/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Config.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SuperPeer/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SharedArea/Answers/AnswerIndexEntity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SuperPeer/KafkaTransport.cs" root0="FORCE_HIGHLIGHTING" />
@@ -123,16 +100,18 @@
         <option value="$PROJECT_DIR$/DataKeeperPeer/Variables.cs" />
         <option value="$PROJECT_DIR$/DataKeeperPeer/Security.cs" />
         <option value="$PROJECT_DIR$/DataIndexerPeer/KafkaTransport.cs" />
-        <option value="$PROJECT_DIR$/DataIndexerPeer/Program.cs" />
         <option value="$PROJECT_DIR$/DataIndexerPeer/Variables.cs" />
         <option value="$PROJECT_DIR$/SharedArea/IResponder.cs" />
         <option value="$PROJECT_DIR$/ApiGateway/Consumer.cs" />
         <option value="$PROJECT_DIR$/DataIndexerPeer/Consumer.cs" />
         <option value="$PROJECT_DIR$/DataKeeperPeer/Consumer.cs" />
         <option value="$PROJECT_DIR$/ApiGateway/Startup.cs" />
-        <option value="$PROJECT_DIR$/DataKeeperPeer/Program.cs" />
-        <option value="$PROJECT_DIR$/SuperPeer/Program.cs" />
         <option value="$PROJECT_DIR$/SharedArea/GlobalVariables.cs" />
+        <option value="$PROJECT_DIR$/SharedArea/Config.cs" />
+        <option value="$PROJECT_DIR$/DataKeeperPeer/Program.cs" />
+        <option value="$PROJECT_DIR$/DataIndexerPeer/Program.cs" />
+        <option value="$PROJECT_DIR$/SuperPeer/Program.cs" />
+        <option value="$PROJECT_DIR$/KasperCloudFramework/Program.cs" />
       </list>
     </option>
   </component>
@@ -170,8 +149,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DatabasePeerService/DatabasePeerService.csproj" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -229,12 +211,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563174797947</updated>
-      <workItem from="1563174799208" duration="13908000" />
+      <workItem from="1563174799208" duration="18050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13908000" />
+    <option name="totallyTimeSpent" value="18050000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -251,7 +233,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" weight="0.32962447" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32916668" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Unit Tests" />
@@ -439,19 +421,6 @@
           <folding>
             <marker date="1560444050211" expanded="true" signature="20:126" ph="{...}" />
             <marker date="1560444050211" expanded="true" signature="73:124" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ApiGateway/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <marker date="1552980736648" expanded="false" signature="6:255" ph="..." />
-            <marker date="1552980736648" expanded="true" signature="277:683" ph="{...}" />
-            <marker date="1552980736648" expanded="true" signature="304:681" ph="{...}" />
-            <marker date="1552980736648" expanded="true" signature="357:431" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -744,57 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SuperPeer/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="32" column="79" selection-start-line="32" selection-start-column="79" selection-end-line="32" selection-end-column="79" />
-          <folding>
-            <marker date="1563203082818" expanded="true" signature="6:72" ph="..." />
-            <marker date="1563203082818" expanded="true" signature="93:1243" ph="{...}" />
-            <marker date="1563203082818" expanded="true" signature="113:1241" ph="{...}" />
-            <marker date="1563203082818" expanded="true" signature="159:1235" ph="{...}" />
-            <marker date="1563203082818" expanded="true" signature="274:761" ph="{...}" />
-            <marker date="1563203082818" expanded="true" signature="341:747" ph="{...}" />
-            <marker date="1563203082818" expanded="true" signature="825:934" ph="{...}" />
-            <marker date="1563203082818" expanded="true" signature="951:1146" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataKeeperPeer/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="29" column="79" selection-start-line="29" selection-start-column="79" selection-end-line="29" selection-end-column="79" />
-          <folding>
-            <marker date="1563203084197" expanded="true" signature="6:72" ph="..." />
-            <marker date="1563203084197" expanded="true" signature="98:1099" ph="{...}" />
-            <marker date="1563203084197" expanded="true" signature="118:1097" ph="{...}" />
-            <marker date="1563203084197" expanded="true" signature="164:1091" ph="{...}" />
-            <marker date="1563203084197" expanded="true" signature="281:616" ph="{...}" />
-            <marker date="1563203084197" expanded="true" signature="348:602" ph="{...}" />
-            <marker date="1563203084197" expanded="true" signature="680:789" ph="{...}" />
-            <marker date="1563203084197" expanded="true" signature="806:1001" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataIndexerPeer/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-          <folding>
-            <marker date="1563201849426" expanded="true" signature="6:72" ph="..." />
-            <marker date="1563201849426" expanded="true" signature="99:1107" ph="{...}" />
-            <marker date="1563201849426" expanded="true" signature="119:1105" ph="{...}" />
-            <marker date="1563201849426" expanded="true" signature="165:1099" ph="{...}" />
-            <marker date="1563201849426" expanded="true" signature="294:628" ph="{...}" />
-            <marker date="1563201849426" expanded="true" signature="361:614" ph="{...}" />
-            <marker date="1563201849426" expanded="true" signature="692:801" ph="{...}" />
-            <marker date="1563201849426" expanded="true" signature="818:1010" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SharedArea/GlobalVariables.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -807,10 +725,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ApiGateway/Variables.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+          <folding>
+            <marker date="1563189146065" expanded="true" signature="20:327" ph="{...}" />
+            <marker date="1563189146065" expanded="true" signature="49:325" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SharedArea/Config.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+          <folding>
+            <marker date="1563383593166" expanded="true" signature="20:423" ph="{...}" />
+            <marker date="1563383593166" expanded="true" signature="46:421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SuperPeer/Variables.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="32">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding>
             <marker date="1563201848943" expanded="true" signature="19:321" ph="{...}" />
             <marker date="1563201848943" expanded="true" signature="48:319" ph="{...}" />
@@ -820,8 +760,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataKeeperPeer/Variables.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        <state relative-caret-position="32">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding>
             <marker date="1563201849208" expanded="true" signature="24:476" ph="{...}" />
             <marker date="1563201849208" expanded="true" signature="53:474" ph="{...}" />
@@ -829,10 +769,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DataKeeperPeer/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <marker date="1563385024370" expanded="true" signature="6:90" ph="..." />
+            <marker date="1563385024370" expanded="true" signature="116:1494" ph="{...}" />
+            <marker date="1563385024370" expanded="true" signature="136:1492" ph="{...}" />
+            <marker date="1563385024370" expanded="true" signature="180:1486" ph="{...}" />
+            <marker date="1563385024370" expanded="true" signature="676:1011" ph="{...}" />
+            <marker date="1563385024370" expanded="true" signature="743:997" ph="{...}" />
+            <marker date="1563385024370" expanded="true" signature="1075:1184" ph="{...}" />
+            <marker date="1563385024370" expanded="true" signature="1201:1396" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataIndexerPeer/Variables.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="32">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding>
             <marker date="1563201849460" expanded="true" signature="25:326" ph="{...}" />
             <marker date="1563201849460" expanded="true" signature="54:324" ph="{...}" />
@@ -840,13 +797,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ApiGateway/Variables.cs">
+    <entry file="file://$PROJECT_DIR$/DataIndexerPeer/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1563385057069" expanded="true" signature="6:90" ph="..." />
+            <marker date="1563385057069" expanded="true" signature="117:1360" ph="{...}" />
+            <marker date="1563385057069" expanded="true" signature="137:1358" ph="{...}" />
+            <marker date="1563385057069" expanded="true" signature="181:1352" ph="{...}" />
+            <marker date="1563385057069" expanded="true" signature="547:881" ph="{...}" />
+            <marker date="1563385057069" expanded="true" signature="614:867" ph="{...}" />
+            <marker date="1563385057069" expanded="true" signature="945:1054" ph="{...}" />
+            <marker date="1563385057069" expanded="true" signature="1071:1263" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApiGateway/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
           <folding>
-            <marker date="1563189146065" expanded="true" signature="20:327" ph="{...}" />
-            <marker date="1563189146065" expanded="true" signature="49:325" ph="{...}" />
+            <marker date="1552980736648" expanded="false" signature="6:255" ph="..." />
+            <marker date="1552980736648" expanded="true" signature="277:683" ph="{...}" />
+            <marker date="1552980736648" expanded="true" signature="304:681" ph="{...}" />
+            <marker date="1552980736648" expanded="true" signature="357:431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuperPeer/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <marker date="1563389842410" expanded="true" signature="6:90" ph="..." />
+            <marker date="1563389842410" expanded="true" signature="111:1522" ph="{...}" />
+            <marker date="1563389842410" expanded="true" signature="138:1520" ph="{...}" />
+            <marker date="1563389842410" expanded="true" signature="189:1514" ph="{...}" />
+            <marker date="1563389842410" expanded="true" signature="553:1040" ph="{...}" />
+            <marker date="1563389842410" expanded="true" signature="620:1026" ph="{...}" />
+            <marker date="1563389842410" expanded="true" signature="1104:1213" ph="{...}" />
+            <marker date="1563389842410" expanded="true" signature="1230:1425" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KasperCloudFramework/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <marker date="1563389937679" expanded="true" signature="6:71" ph="..." />
+            <marker date="1563389937679" expanded="true" signature="103:1601" ph="{...}" />
+            <marker date="1563389937679" expanded="true" signature="123:1599" ph="{...}" />
+            <marker date="1563389937679" expanded="true" signature="380:1593" ph="{...}" />
+            <marker date="1563389937679" expanded="true" signature="415:1583" ph="{...}" />
+            <marker date="1563389937679" expanded="true" signature="645:1569" ph="{...}" />
+            <marker date="1563389937679" expanded="true" signature="723:1551" ph="{...}" />
+            <marker date="1563389937679" expanded="true" signature="922:1529" ph="{...}" />
+            <marker date="1563389937679" expanded="true" signature="1017:1503" ph="{...}" />
           </folding>
         </state>
       </provider>
